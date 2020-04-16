@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <NavBar />
-    <router-view />
+    <!-- Reload component when the URL changes incluing query parameters -->
+    <router-view :key="$route.fullPath" />
   </div>
 </template>
 
