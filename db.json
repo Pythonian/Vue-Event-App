@@ -66,6 +66,66 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 7649343,
+      "user": {
+        "id": "abc123",
+        "name": "Seyi Pythonian"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Seyi Pythonian"
+      },
+      "title": "Seyi",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4376644,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Seyi Pythonian"
+      },
+      "title": "Mercy Birthday",
+      "description": "She finally turns 18",
+      "location": "UNN",
+      "date": "2020-04-16T09:55:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 8087126,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Seyi Pythonian"
+      },
+      "title": "Birthday",
+      "description": "Mercy",
+      "location": "UNN",
+      "date": "2020-04-16T09:58:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 9904220,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Seyi Pythonian"
+      },
+      "title": "Birthday",
+      "description": "Celebration of life",
+      "location": "UNN",
+      "date": "2020-04-20T10:03:00.000Z",
+      "time": "2:00",
+      "attendees": []
     }
   ]
 }
