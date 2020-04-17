@@ -24,7 +24,6 @@
         }
       ]
     },
-
     {
       "id": 5928301,
       "user": {
@@ -174,6 +173,24 @@
       "location": "UNN",
       "date": "2020-04-20T10:03:00.000Z",
       "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 9577393,
+      "user": {
+        "id": "abc123",
+        "name": "Pythonian"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Pythonian"
+      },
+      "title": "Crinkuum",
+      "description": "I dont know",
+      "location": "Lekki",
+      "date": "2020-05-01T06:44:00.000Z",
+      "time": "4:00",
       "attendees": []
     }
   ]
