@@ -22,7 +22,7 @@ npm install -g json-server
 ## Turn on json server to watch the mock database
 
 ```bash
-json-server --watch db.json
+json-server -d 5000 --watch db.json
 ```
 
 ## Spin up a local server for the project in a new console tab

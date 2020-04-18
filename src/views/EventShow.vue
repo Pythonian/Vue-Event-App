@@ -25,16 +25,14 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'
 
 export default {
-  props: ['id'],
-  created() {
-    this.$store.dispatch('event/fetchEvent', this.id)
-  },
-  computed: mapState({
-    event: state => state.event.event
-  })
+  props: {
+    event: {
+      type: Object,
+      required: true
+    }
+  }
 }
 </script>
 
