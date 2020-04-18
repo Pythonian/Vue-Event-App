@@ -4,9 +4,15 @@ import router from './router'
 import store from './store'
 import BaseIcon from '@/components/BaseIcon.vue'
 import 'nprogress/nprogress.css'
+import BaseInput from '@/components/BaseInput.vue'
+import BaseSelect from '@/components/BaseSelect.vue'
+import BaseButton from '@/components/BaseButton.vue'
 
 // Register a component globally
 Vue.component('BaseIcon', BaseIcon)
+Vue.component('BaseInput', BaseInput)
+Vue.component('BaseSelect', BaseSelect)
+Vue.component('BaseButton', BaseButton)
 
 Vue.config.productionTip = false
 
