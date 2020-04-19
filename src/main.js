@@ -8,12 +8,15 @@ import BaseInput from '@/components/BaseInput.vue'
 import BaseSelect from '@/components/BaseSelect.vue'
 import BaseButton from '@/components/BaseButton.vue'
 import Vuelidate from 'vuelidate'
+import DateFilter from './filters/date'
 
 // Register a component globally
 Vue.component('BaseIcon', BaseIcon)
 Vue.component('BaseInput', BaseInput)
 Vue.component('BaseSelect', BaseSelect)
 Vue.component('BaseButton', BaseButton)
+
+Vue.filter('date', DateFilter)
 
 Vue.use(Vuelidate)
 
