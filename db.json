@@ -246,6 +246,24 @@
       "date": "2020-04-17T18:03:00.000Z",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 6789799,
+      "user": {
+        "id": "abc123",
+        "name": "Pythonian"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Pythonian"
+      },
+      "title": "Zoo keeper",
+      "description": "I dont know",
+      "location": "Lagos",
+      "date": "2020-04-10T00:04:00.000Z",
+      "time": "15:00",
+      "attendees": []
     }
   ]
 }
